@@ -67,7 +67,7 @@
     }
   },
   "spamProtection": {
-    "commandThreshold": 5,
+    "commandThreshold": 8,
     "timeWindow": 10,
     "banDuration": 24,
     "notes": "Auto-ban threads when users spam commands. commandThreshold: number of commands, timeWindow: seconds, banDuration: hours"
